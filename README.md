@@ -20,7 +20,7 @@ code
 ```
 
 
-6. Run the application in Visual Studio.
+3. Run the application in Visual Studio.
 
 ## Features
 The course management system allows for the following features:
