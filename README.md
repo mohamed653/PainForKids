@@ -31,7 +31,7 @@ The course management system allows for the following features:
 * feature 4
 
 ## Technologies Used
-The following technologies were used in the development of the course management system:
+The following technologies were used in the development of Paint For Kids:
 
 - C++
 - graphics liberary
