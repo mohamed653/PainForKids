@@ -1,6 +1,6 @@
 # Paint For Kids
 
-This is a.......
+This is a c++ GUI Application for drawing and playing with shapes
 
 ## Installation
 To run the course management system, you will need to have the following installed:
